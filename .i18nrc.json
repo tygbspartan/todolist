@@ -1,0 +1,10 @@
+{
+    "prefix": "toDoList",
+    "paths": {
+      "toDoList": "."
+    },
+    "translations": [
+      "translations/ja-JP.json"
+    ]
+  }
+  
